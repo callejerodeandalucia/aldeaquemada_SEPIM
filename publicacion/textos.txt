@@ -1,24 +1,37 @@
-TÃ­tulo (30)
-===========
+Título:
 
-DescripciÃ³n breve (80)
-======================
+GUÍA OFICIAL DE ALDEAQUEMADA
 
-DescripciÃ³n completa (4000)
-===========================
 
-Etiquetas	
-===========
+Descripción breve:
 
-Notas de versiÃ³n
-=================
-VersiÃ³n inicial
+Guía con información de interés de Aldeaquemada, la Perla de Sierra Morena.
 
-****aÃ±adir algo aquÃ­ si se publica en forma de actualizaciÃ³n***
+Descripción completa:
 
-Sitio web
-=========
 
-Correo electrÃ³nico
-==================
+Con la Aplicación “Guía Oficial de Aldeaquemada”, llevarás Aldeaquemada
 
+ en Tú Bolsillo!
+
+Es una aplicación desarrollada por el Ayuntamiento de Aldeaquemada y pretende ser un canal más de información y comunicación entre el ciudadano y la Administración.
+
+La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar (a través de la geolocalización en un plano) la máxima información de Aldeaquemada desde una visión general, así como detallada, que servirá en la vida cotidiana a todo aquel (turista o visitante) que se acerque a esta bella ciudad.
+
+Esta guía es muy útil para moverse por sus calles y alrededores, de forma rápida y ágil, podrás localizar los lugares más importantes de Aldeaquemada, dónde comer, dónde dormir,  centros de salud,  colegio, organismos públicos, farmacias, así como conocer sus fiestas y costumbres, ocio, cultura, monumentos y demás lugares de interés.
+
+Esta aplicación no solo indica la ubicación, sino que incluso, usando la tecnología GPS, guiará hasta el lugar solicitado e incluso ofrece la posibilidad de realizar llamadas o enviar correos electrónicos para contactar, así como visitar sus sitios web o redes sociales. Para poder identificar mejor la ubicación la aplicación ofrece una imagen de la fachada donde está ubicado el lugar de la búsqueda a la vez que ofrece una breve descripción informativa (ej: horarios y otros datos de interés).
+
+La aplicación dispone de un servicio "Cerca de mí" que usando la tecnología del GPS indicará al ciudadano todos los elementos de interés cercanos a su posición.
+La localidad de Aldeaquemada está ubicada en el Norte  de la Provincia de Jaén, en la Comarca  “Norte de Jaén”, es indiscutíblemente un lugar mágico donde disfrutar de la naturaleza y poder respirar aire puro. 
+
+
+Aldeaquemada posee un gran patrimonio cultural, natural e histórico.
+
+El magnífico paraje Cascada de La Cimbarra, donde podemos encontrar las espectaculares Cascadas: La Cimbarra, El Cimbarrillo y El Negrillo junto con un increíble entorno que te hará soñar.
+También puedes disfrutar de la fauna del lugar en la finca Dehesa Navalacedra.
+Y sin olvidar el gran número de núcleos de pinturas rupestre que podrás visitar en los alrededores de Aldeaquemada, algunas de ellas declaradas Patrimonio de la Humanidad por la Hunesco.
+
+¡ Y te vas a perder todo esto… !
+
+Visita Aldeaquemada, la perla de Sierra Morena.
